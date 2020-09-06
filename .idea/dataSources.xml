@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Jupiter MySQL" uuid="330c0dc5-ae86-41fe-a8f4-275e0f542b9c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database-mysql-job.cctvgi5apyis.us-east-2.rds.amazonaws.com:3306/Jobproject</jdbc-url>
+    </data-source>
+  </component>
+</project>
